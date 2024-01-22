@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=El+Messiri:wght@400;500;600;700&display=swap');
+
+footer{
+  background-color: #02020A;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  padding: 100px;
+  font-family: 'El Messiri', sans-serif;
+  font-size: 20px;
+  width: 100%;
+  margin-top: 20px;
+}

@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=El+Messiri:wght@400;500;600;700&display=swap');
+
+section{
+  padding: 10px;
+  margin: 20px 50px;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  font-family: 'El Messiri', sans-serif;
+  font-size: 20px;
+  border: 2px solid #02020A;
+}
+
+h3{
+  margin-right: 30px;
+  cursor: pointer;
+}
+
+img{
+  width: 250px;
+  height: 150px;
+  background-size: cover;
+}
